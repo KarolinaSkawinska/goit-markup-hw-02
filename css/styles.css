@@ -74,9 +74,6 @@ p {
     color: #434455;
 }
 .first-section {
-    background-color: var(--color-white);
-}
-.first-section-index {
     background-color: var(--fourth-color-text);
 }
 img {
