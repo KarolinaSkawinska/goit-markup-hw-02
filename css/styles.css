@@ -76,6 +76,9 @@ p {
 .first-section {
     background-color: var(--fourth-color-text);
 }
+.first-section-index {
+    background-color: var(--color-white);
+}
 img {
     display: block;
 }
