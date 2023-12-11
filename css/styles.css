@@ -76,6 +76,9 @@ p {
 .first-section {
     background-color: var(--fourth-color-text);
 }
+.first-section-portfolio {
+    background-color: var(--color-white);
+}
 img {
     display: block;
 }
@@ -128,6 +131,9 @@ a:hover  {
     text-decoration: none;
     text-transform: uppercase;
     color: var(--second-color-text);
+}
+.logo:hover {
+    color:orange;
 }
 .link-first{
     font-weight: 500;
