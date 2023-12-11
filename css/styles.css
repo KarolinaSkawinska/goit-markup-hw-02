@@ -4,6 +4,7 @@
     --third-color-text: #434455;
     --fourth-color-text: #2e2f42;
     --fifth-color-text:#F4F4FD;
+    --sixth-color-text: #404bbf;
     --color-white: #FFFFFF;
 }
 
@@ -79,9 +80,7 @@ p {
 .first-section-portfolio {
     background-color: var(--color-white);
 }
-img {
-    display: block;
-}
+
 button {
 color: #FFFFFF;
 background-color: var(--second-color-text);
@@ -133,7 +132,7 @@ a:hover  {
     color: var(--second-color-text);
 }
 .logo:hover {
-    color:orange;
+    color:var(--sixth-color-text);
 }
 .link-first{
     font-weight: 500;
